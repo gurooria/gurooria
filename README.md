@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gloria</h1>
-<h3 align="center">I am passionate about Signal Processing, Data Science & Machine Learning applied to Neurotechnology as well as the Financial Markets!</h3>
+<h3 align="center">Passionate about Signal Processing, Data Science & Machine Learning, with experiences in Brain-Machine Interface research as well as the Financial Markets!</h3>
+
+- 🌱 I’m currently learning **Deep Learning, Rust, Algorithmic Trading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
