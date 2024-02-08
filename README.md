@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gloria</h1>
-<h3 align="center">I'm passionate about signal Processing, data Science & machine learning; <br />
-                  Previous experiences in Brain-Machine Interface research & Quantitative Trading</h3>
+<h3 align="center">I'm passionate about signal Processing, data science & machine learning; <br />
+                  Previous experiences in brain-machine interface research & quantitative trading!</h3>
 
 - 🔭 I’m currently working on **my final year project to improve DNN interpretability**
-- 🌱 I’m currently learning **Deep Learning, Adaptive Signal Processing, Rust & Algorithmic Trading!**
+- 🌱 I’m currently learning **Deep Learning, Adaptive Signal Processing, Rust & Algorithmic Trading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
